@@ -1,0 +1,40 @@
+
+
+Version:	3.50
+CmdLine:	C:\Users\Admin\Desktop\DONE PROJECTS\BlackJack\out\artifacts\BlackJack_jar\BlackJack.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\Admin\Desktop\DONE PROJECTS\BlackJack\out\artifacts\BlackJack_jar\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = G:\jdk-22.0.2
+Substitute:	PATH = C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;G:\jdk-22.0.2\bin;G:\apache-maven-3.9.9\bin;G:\nodejs;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\Admin\AppData\Local\Microsoft\WindowsApps;G:\PyCharm Community Edition 2024.2\bin;;G:\IntelliJ IDEA 2024.2.0.2\bin;;G:\IntelliJ IDEA Community Edition 2024.2.0.2\bin;;G:\Microsoft VS Code\bin;C:\Users\Admin\AppData\Roaming\npm;G:\jdk-22.0.2\bin
+JRE paths:	G:\jdk-22.0.2;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;G:\jdk-22.0.2\bin;G:\apache-maven-3.9.9\bin;G:\nodejs;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\Admin\AppData\Local\Microsoft\WindowsApps;G:\PyCharm Community Edition 2024.2\bin;;G:\IntelliJ IDEA 2024.2.0.2\bin;;G:\IntelliJ IDEA Community Edition 2024.2.0.2\bin;;G:\Microsoft VS Code\bin;C:\Users\Admin\AppData\Roaming\npm;G:\jdk-22.0.2\bin
+Check launcher:	G:\jdk-22.0.2\bin\javaw.exe (OK)
+Version string: 1.022.000_002 / 64-Bit (OK)
+Launcher:	G:\jdk-22.0.2\bin\javaw.exe
+Launcher args:	-jar "C:\Users\Admin\Desktop\DONE PROJECTS\BlackJack\out\artifacts\BlackJack_jar\BlackJack.exe"
+Args length:	95/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\Admin\Desktop\DONE PROJECTS\BlackJack\out\artifacts\BlackJack_jar\BlackJack.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\Admin\Desktop\DONE PROJECTS\BlackJack\out\artifacts\BlackJack_jar\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = G:\jdk-22.0.2
+Substitute:	PATH = C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;G:\jdk-22.0.2\bin;G:\apache-maven-3.9.9\bin;G:\nodejs;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\Admin\AppData\Local\Microsoft\WindowsApps;G:\PyCharm Community Edition 2024.2\bin;;G:\IntelliJ IDEA 2024.2.0.2\bin;;G:\IntelliJ IDEA Community Edition 2024.2.0.2\bin;;G:\Microsoft VS Code\bin;C:\Users\Admin\AppData\Roaming\npm;G:\jdk-22.0.2\bin
+JRE paths:	G:\jdk-22.0.2;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;G:\jdk-22.0.2\bin;G:\apache-maven-3.9.9\bin;G:\nodejs;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\Admin\AppData\Local\Microsoft\WindowsApps;G:\PyCharm Community Edition 2024.2\bin;;G:\IntelliJ IDEA 2024.2.0.2\bin;;G:\IntelliJ IDEA Community Edition 2024.2.0.2\bin;;G:\Microsoft VS Code\bin;C:\Users\Admin\AppData\Roaming\npm;G:\jdk-22.0.2\bin
+Check launcher:	G:\jdk-22.0.2\bin\javaw.exe (OK)
+Version string: 1.022.000_002 / 64-Bit (OK)
+Launcher:	G:\jdk-22.0.2\bin\javaw.exe
+Launcher args:	-jar "C:\Users\Admin\Desktop\DONE PROJECTS\BlackJack\out\artifacts\BlackJack_jar\BlackJack.exe"
+Args length:	95/32768 chars
+Exit code:	0
